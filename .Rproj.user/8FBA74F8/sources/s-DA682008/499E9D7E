@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553215070931.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3078744772",
+    "id" : "499E9D7E",
+    "lastKnownWriteTime" : 1553215125,
+    "last_content_update" : 1553215125681,
+    "path" : "~/GitHub/iGSEA-isoform/R/iGSEAi_Read.R",
+    "project_path" : "R/iGSEAi_Read.R",
+    "properties" : {
+        "cursorPosition" : "23,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
